@@ -51,4 +51,4 @@ var createTaskEl = function(taskDataObj) {
 
 
 
-formEl.addEventListener("submit", createTaskHandler);
+formEl.addEventListener("submit", taskFormHandler);
